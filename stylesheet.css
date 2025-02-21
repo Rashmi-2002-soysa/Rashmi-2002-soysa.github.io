@@ -473,7 +473,7 @@ span{
         padding: 2rem 3%;
     }
     section{
-        padding: 10rem 3%;
+        padding: 7rem 3%;
     }
     .services{
         padding: 7rem;
@@ -481,9 +481,17 @@ span{
     .skills{
         padding-bottom: 7rem;
     }
-
-    .contact{
-        min-height: auto;
+    .myworks{
+        padding: 7rem;
+    }
+    .myworks2{
+        padding: 7rem;
+    }
+    .myworks3{
+        padding: 7rem;
+    }
+    .myworks4{
+        padding: 7rem;
     }
 }
 
@@ -539,7 +547,7 @@ span{
     }
 
     .Food-app-img img{
-        width: 90nw;
+        width: 100nw;
         margin-top: 2rem;
     }
 
@@ -548,7 +556,7 @@ span{
     }
 
     .Movie-img img{
-        width: 90nw;
+        width: 100nw;
         margin-top:2rem;
     }
      .myworks3{
@@ -556,7 +564,7 @@ span{
     }
 
     .website-img img{
-        width: 90nw;
+        width: 100nw;
         margin-top: 2rem;
     }
 
@@ -565,7 +573,7 @@ span{
     }
 
     .teaFactory-img img{
-        width: 90nw;
+        width: 100nw;
         margin-top: 2rem;
     }
 }
@@ -586,7 +594,7 @@ span{
     }
     .Food-app-img img {
         width: 110nw;
-        margin-top: 4rem;
+        margin-top: 2rem;
     }
 
     .Movie-img img{
@@ -595,7 +603,7 @@ span{
     }
     .website-img img {
         width: 110nw;
-        margin-top: 4rem;
+        margin-top: 2em;
     }
 
     .teaFactory-img img{
@@ -607,9 +615,5 @@ span{
 @media (max-width: 450){
     html{
         font-size: 50%;
-    }
-
-    .contact form .input-box input{
-        width: 100%
     }
 }
