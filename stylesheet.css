@@ -472,26 +472,32 @@ span{
     .header {
         padding: 2rem 3%;
     }
+    .home{
+        padding: 3rem 3%;
+    }
+    .about{
+        padding: 3rem 3%;
+    }
     section{
-        padding: 7rem 3%;
+        padding: 3rem 3%;
     }
     .services{
-        padding: 7rem;
+        padding: 3rem;
     }
     .skills{
-        padding-bottom: 7rem;
+        padding-bottom: 3rem;
     }
     .myworks{
-        padding: 7rem;
+        padding: 3rem;
     }
     .myworks2{
-        padding: 7rem;
+        padding: 3rem;
     }
     .myworks3{
-        padding: 7rem;
+        padding: 3rem;
     }
     .myworks4{
-        padding: 7rem;
+        padding: 3rem;
     }
 }
 
