@@ -510,7 +510,7 @@ span{
 
     .home-img img{
         width: 100nw;
-        margin-top: 4rem;
+        margin-top: 2rem;
     }
 
     .about{
@@ -519,7 +519,7 @@ span{
 
     .about-img img{
         width: 100nw;
-        margin-top: 4rem;
+        margin-top: 2rem;
     }
 
     .services h2{
@@ -540,7 +540,7 @@ span{
 
     .Food-app-img img{
         width: 90nw;
-        margin-top: 4rem;
+        margin-top: 2rem;
     }
 
     .myworks2{
@@ -549,7 +549,24 @@ span{
 
     .Movie-img img{
         width: 90nw;
-        margin-top: 4rem;
+        margin-top:2rem;
+    }
+     .myworks3{
+        flex-direction: column;
+    }
+
+    .website-img img{
+        width: 90nw;
+        margin-top: 2rem;
+    }
+
+    .myworks4{
+        flex-direction: column;
+    }
+
+    .teaFactory-img img{
+        width: 90nw;
+        margin-top: 2rem;
     }
 }
 
@@ -560,12 +577,30 @@ span{
 
     .home-img img {
         width: 90nw;
-        margin-top: 8rem;
+        margin-top: 4rem;
     }
 
     .about-img img{
         width: 110nw;
+        margin-top: 2rem;
+    }
+    .Food-app-img img {
+        width: 110nw;
         margin-top: 4rem;
+    }
+
+    .Movie-img img{
+        width: 110nw;
+        margin-top: 2rem;
+    }
+    .website-img img {
+        width: 110nw;
+        margin-top: 4rem;
+    }
+
+    .teaFactory-img img{
+        width: 110nw;
+        margin-top: 2rem;
     }
 }
 
