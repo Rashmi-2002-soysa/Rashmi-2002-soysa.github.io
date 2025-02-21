@@ -517,7 +517,7 @@ span{
     }
 
     .home-img img{
-        width: 100nw;
+        width: 30rem;
         margin-top: 2rem;
     }
 
@@ -526,7 +526,7 @@ span{
     }
 
     .about-img img{
-        width: 100nw;
+        width: 30rem;
         margin-top: 2rem;
     }
 
@@ -542,39 +542,39 @@ span{
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .myworks{
+    .myworks-container{
         flex-direction: column;
     }
 
     .Food-app-img img{
-        width: 100nw;
-        margin-top: 2rem;
+        width: 30rem;
+        margin-top: 4rem;
     }
 
-    .myworks2{
+    .myworks2-container{
         flex-direction: column;
     }
 
     .Movie-img img{
-        width: 100nw;
-        margin-top:2rem;
+        width: 30rem;
+        margin-top:4rem;
     }
-     .myworks3{
+     .myworks3-container{
         flex-direction: column;
     }
 
     .website-img img{
-        width: 100nw;
-        margin-top: 2rem;
+        width: 30rem;
+        margin-top: 4rem;
     }
 
-    .myworks4{
+    .myworks4-container{
         flex-direction: column;
     }
 
     .teaFactory-img img{
-        width: 100nw;
-        margin-top: 2rem;
+        width: 30rem;
+        margin-top: 4rem;
     }
 }
 
@@ -584,31 +584,31 @@ span{
     }
 
     .home-img img {
-        width: 90nw;
+        width: 25rem;
         margin-top: 4rem;
     }
 
     .about-img img{
-        width: 110nw;
+        width: 35rem;
         margin-top: 2rem;
     }
     .Food-app-img img {
-        width: 110nw;
-        margin-top: 2rem;
+        width: 35rem;
+        margin-top: 3rem;
     }
 
     .Movie-img img{
-        width: 110nw;
-        margin-top: 2rem;
+        width: 35rem;
+        margin-top: 3rem;
     }
     .website-img img {
-        width: 110nw;
-        margin-top: 2em;
+        width: 35rem;
+        margin-top: 3em;
     }
 
     .teaFactory-img img{
-        width: 110nw;
-        margin-top: 2rem;
+        width: 35rem;
+        margin-top: 3rem;
     }
 }
 
