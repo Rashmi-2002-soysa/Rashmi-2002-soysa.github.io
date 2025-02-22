@@ -403,3 +403,42 @@ h3{
     font-size: 1.4rem;
     margin-left: 2rem;
 }
+
+@media (max-width:1200px){
+    html {
+        font-size: 55%;
+    }
+}
+
+@media (max-width: 991px){
+    .header {
+        padding: 2rem 3%;
+    }
+    section{
+        padding: 10rem 3%;
+    }
+}
+
+@media (max-width: 768px) {
+    #menu-icon{
+        display: block;
+    }
+    .content{
+    flex-direction: column;
+    }
+    
+    .row{
+   flex-direction: column; 
+    }
+    
+    .row2{
+   flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
